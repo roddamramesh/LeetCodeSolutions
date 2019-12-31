@@ -32,11 +32,16 @@ public class TwoSum {
         System.out.println("Indexes of Array are " + arrayOfIndexes[0] + " and " + arrayOfIndexes[1]);
     }
 
+    /**
+     * @param nums   Array of Values
+     * @param target Target Value
+     * @return Sum of indexes of target value
+     */
+
     public int[] twoSum(int[] nums, int target) {
         HashMap<Integer, Integer> mapOfIndex = new HashMap<>();
         int[] arrOfIndexes = new int[2];
         for (int i = 0; i < nums.length; i++) {
-
             if (mapOfIndex.containsKey(nums[i])) {
                 arrOfIndexes[0] = i;
                 arrOfIndexes[1] = mapOfIndex.get(nums[i]);
@@ -44,8 +49,6 @@ public class TwoSum {
             } else {
                 mapOfIndex.put(target - nums[i], i);
             }
-
-
         }
         return arrOfIndexes;
     }
