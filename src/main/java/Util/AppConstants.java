@@ -6,5 +6,11 @@ package Util;
  * Time: 10:55 PM
  */
 public class AppConstants {
-    public static final  int[] TWO_SUM_ARRAY= new int[]{2,7,11,15};
+
+    public static final int[] TWO_SUM_ARRAY = new int[]{2, 7, 11, 15};
+
+    AppConstants() {
+
+    }
+
 }
