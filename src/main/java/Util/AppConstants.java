@@ -1,8 +1,7 @@
 package Util;
 
 /**
- * Created by IntelliJ IDEA.
- * User: rameshroddam
+ * Created by rameshroddam.
  * Date: 12/30/19
  * Time: 10:55 PM
  */
