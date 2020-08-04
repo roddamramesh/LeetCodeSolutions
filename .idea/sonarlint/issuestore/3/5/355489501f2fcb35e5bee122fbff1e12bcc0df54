@@ -1,0 +1,7 @@
+
+;squid:S1659"Declare "j" on a separate line.(ãäÚ‘üÿÿÿÿ
+;squid:S1659"Declare "k" on a separate line.(ãäÚ‘üÿÿÿÿ
+T
+squid:S106T"9Replace this use of System.out or System.err by a logger.(„Î“ûÿÿÿÿ
+j$squid:AssignmentInSubExpressionCheck+".Extract the assignment out of this expression.( ø€ûúÿÿÿÿ8Ôìş´.
+Zsquid:S1854+"7Remove this useless assignment to local variable "mid".( ø€ûúÿÿÿÿ8Ôìş´.
