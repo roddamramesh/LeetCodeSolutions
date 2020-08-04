@@ -1,6 +1,6 @@
 package arrays;
 
-import Util.AppConstants;
+import util.AppConstants;
 
 import java.util.*;
 

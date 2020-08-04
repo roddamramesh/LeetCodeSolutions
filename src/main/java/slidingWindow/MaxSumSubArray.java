@@ -1,4 +1,4 @@
-package SlidingWindow;
+package slidingWindow;
 
 /**
  * Created by rameshroddam.

@@ -5,7 +5,7 @@ package arrays;
  * Time: 10:46 PM
  */
 
-import Util.AppConstants;
+import util.AppConstants;
 
 import java.util.HashMap;
 

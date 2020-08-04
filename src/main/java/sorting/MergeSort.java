@@ -1,6 +1,6 @@
 package sorting;
 
-import Util.AppConstants;
+import util.AppConstants;
 
 
 /**
